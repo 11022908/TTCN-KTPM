@@ -1,0 +1,18 @@
+{
+  "name": "ttcn_team",
+  "version": "1.0.0",
+  "description": "Code thuc tap chuyen nganh _team",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "team 6",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

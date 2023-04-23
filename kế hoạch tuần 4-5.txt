@@ -1,0 +1,17 @@
+Tuần này : đặc tả use case , vẽ biểu đồ tuần tự, tạo bảng vật lí cho các use case được giao
+
+qAnh: bỏ hàng vào giỏ, xem giỏ hàng, tìm sản phẩm
+
+Vanh: chỉnh sửa thông tin tài khoản, đăng nhập (user), đặt hàng
+
+Bảo: xem chi tiết sản phẩm, xem tin tức, tổng hợp báo cáo chương 1
+
+hưng: đăng nhập(admin), quản lí danh mục, quản lí user
+
+kiệt : quản lí tin tức, quản lí sản phẩm
+
+deadline: 10/4 thứ 2 tuần sau. làm xong up lên link gg drive trong nhóm
+để sau này thầy có hỏi thì còn có cái trả lời
+
+
+ 
